@@ -1,4 +1,4 @@
-**Further Files in this Repository will be released soon.**  
+**Further files in this repository will be released soon.**  
 
 # Best Stylometric Measures in Ancient Greek Literature by Irene Martin
 
@@ -14,5 +14,5 @@ The main focus of Koentges’ paper is the question of authenticity of the Menex
 My research is motivated by this quotation and thus the experiments in this work will examine the measure’s research reputation and domain specific effects for the computational research of Ancient Greek.     
 
 ## Copyright
-Further Details will be released soon. 
+Further details will be released soon. 
 - CC-BY for all images and text (unless otherwise specified)
